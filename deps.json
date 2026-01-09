@@ -1,0 +1,14 @@
+{
+  "msquic": {
+    "tag": "v2.5.6",
+    "url": "https://github.com/microsoft/msquic"
+  },
+  "nghttp3": {
+    "ref": "bedf22ac7447bc062e36a10ae21493d03fc85253",
+    "url": "https://github.com/ngtcp2/nghttp3"
+  },
+  "nghttp2": {
+    "tag": "v1.68.0",
+    "url": "https://github.com/nghttp2/nghttp2"
+  }
+}
