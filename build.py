@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-build-libmoqt: iOS/Android 向け MOQT 依存ライブラリビルドスクリプト
+build-moqt: iOS/Android 向け MOQT 依存ライブラリビルドスクリプト
 
 ビルド対象:
 - libmsquic (QUIC プロトコル実装)
